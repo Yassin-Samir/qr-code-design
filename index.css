@@ -8,10 +8,10 @@ body {
 }
 .container {
   position: absolute;
-  padding: 10px;
+  padding: 20px;
   background-color: white;
-  width: 350px;
-  height: 500px;
+  width: 320px;
+  height: 550px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -43,7 +43,7 @@ body {
   content: "Improve your front-end skills by building projects";
   font-weight: bold;
   font-size: 1.5rem;
-  bottom: -60px;
+  bottom: -95px;
 }
 .container div:first-child::after,
 .container div:first-child::before {
@@ -55,6 +55,6 @@ body {
   font-size: 1.2rem;
   font-weight: bold;
   width: 95%;
-  bottom: -135px;
+  bottom: -190px;
   color: hsl(207, 7%, 75%);
 }
